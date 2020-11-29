@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1606671051759.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2959284509",
+    "id" : "4804DAE9",
+    "lastKnownWriteTime" : 1606671960,
+    "last_content_update" : 1606671960969,
+    "path" : "~/Documents/Research/github/marcusnunes.me/content/posts/paradoxo-de-simpson.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "28,0",
+        "scrollLine" : "19"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
